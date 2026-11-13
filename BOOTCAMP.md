@@ -125,14 +125,14 @@ as your user, and never a loopback name (refused). Windows needs WSL (`dentate s
 unsupported there).
 
 **Downloadable CLI.** No Python? The release attaches self-contained one-folder bundles:
-[macOS arm64](https://github.com/Xpitfire/dentate-bootcamp/releases/latest/download/dentate-macos-arm64.zip) ·
-[Linux x64](https://github.com/Xpitfire/dentate-bootcamp/releases/latest/download/dentate-linux-x64.zip) ·
-[Windows x64](https://github.com/Xpitfire/dentate-bootcamp/releases/latest/download/dentate-windows-x64.zip).
+[macOS arm64](https://github.com/sftwrk/dentate-bootcamp/releases/latest/download/dentate-macos-arm64.zip) ·
+[Linux x64](https://github.com/sftwrk/dentate-bootcamp/releases/latest/download/dentate-linux-x64.zip) ·
+[Windows x64](https://github.com/sftwrk/dentate-bootcamp/releases/latest/download/dentate-windows-x64.zip).
 Unzip, then `./dentate/dentate demo doctor` (Windows: `dentate\dentate.exe`). Same commands as above.
 
 ## 2. Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xpitfire/dentate-bootcamp/blob/main/dentate_bootcamp.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sftwrk/dentate-bootcamp/blob/main/dentate_bootcamp.ipynb)
 
 `examples/colab/dentate_bootcamp.ipynb`: install → `dentate demo init` → **open the console** (section 2b) → run the
 starter with live progress in that tab → inspect it. The console starts in the background and the notebook prints its

@@ -1,6 +1,6 @@
 # CLI bundles for the bootcamp: one-folder PyInstaller builds of `dentate[demo]` installed from PyPI, one per OS,
 # attached to a GitHub release `v<version>` here so anonymous attendees can download them:
-#   https://github.com/Xpitfire/dentate-bootcamp/releases/latest/download/dentate-{macos-arm64,linux-x64,windows-x64}.zip
+#   https://github.com/sftwrk/dentate-bootcamp/releases/latest/download/dentate-{macos-arm64,linux-x64,windows-x64}.zip
 # Trigger: push a tag `v<version>` or dispatch with the PyPI version to bundle. The target names are load-bearing:
 # the Dentate site and BOOTCAMP.md link them verbatim.
 name: bundles
